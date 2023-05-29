@@ -1,0 +1,23 @@
+.logo-post {
+  background-color: #fffafa;
+  width: 1090px;
+  position: absolute;
+  left: 300px;
+}
+.post {
+  width: 970px;
+  padding-top: 25px;
+  padding-left: 50px;
+  padding-bottom: 25px;
+  padding-right: 70px;
+}
+h1 {
+  font-family: "Montserrat";
+}
+.data {
+  color: #008080;
+  font-family: "roboto";
+}
+.post-content {
+  font-family: "Open Sans";
+}
